@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Vandalia.Base", "..\..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "R5T.Cambridge.Types", "..\..\R5T.Cambridge.Types\source\R5T.Cambridge.Types\R5T.Cambridge.Types.csproj", "{71B6FF14-B346-46BC-83F7-E6A17D1CAA15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "R5T.T0064", "..\..\R5T.T0064\source\R5T.T0064\R5T.T0064.csproj", "{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,18 @@ Global
 		{71B6FF14-B346-46BC-83F7-E6A17D1CAA15}.Release|x64.Build.0 = Release|Any CPU
 		{71B6FF14-B346-46BC-83F7-E6A17D1CAA15}.Release|x86.ActiveCfg = Release|Any CPU
 		{71B6FF14-B346-46BC-83F7-E6A17D1CAA15}.Release|x86.Build.0 = Release|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Debug|x64.Build.0 = Debug|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Debug|x86.Build.0 = Debug|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Release|x64.ActiveCfg = Release|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Release|x64.Build.0 = Release|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Release|x86.ActiveCfg = Release|Any CPU
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -78,6 +92,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{54F368C8-CE49-48DE-9CCD-5617AF3CD591} = {1E9BB176-7A3F-423C-A39C-26D5205A6501}
 		{71B6FF14-B346-46BC-83F7-E6A17D1CAA15} = {1E9BB176-7A3F-423C-A39C-26D5205A6501}
+		{7893DF7F-2FC8-4583-8F18-A7EF72E5DA97} = {1E9BB176-7A3F-423C-A39C-26D5205A6501}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {22E7D63F-98EC-4852-BB25-5C23CBC309E6}
